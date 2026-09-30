@@ -1,2 +1,2 @@
 streamlit
-huggingface-hubstreamlit run app.py
+huggingface-hub
